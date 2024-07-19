@@ -20,7 +20,7 @@
   <li>Spring Boot DevTools</li>
   <li>Spring Data JPA</li>
   <li>Flyway Migration</li>
-  <li>MySQL Driver/li>
+  <li>MySQL Driver</li>
   <li>Validation</li>
   <li>Spring Security</li>
 </ul>
